@@ -12,7 +12,7 @@ const Header: React.FC = () => {
           </svg>
         </div>
         <h1 className="text-xl font-bold bg-gradient-to-r from-white to-slate-400 bg-clip-text text-transparent">
-          透視之眼 <span className="text-sm font-normal text-slate-500 ml-2">Perspective Assistant</span>
+          透視寶貝 <span className="text-sm font-normal text-slate-500 ml-2">Perspective Assistant</span>
         </h1>
       </div>
       <div className="flex items-center space-x-4">
